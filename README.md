@@ -44,8 +44,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://ciftcirecep.pb.design/"><img src="https://img.shields.io/badge/-Selectra.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ciftci-recep/"><img src="https://img.shields.io/badge/-Recep Çiftçi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://ciftcirecep.pb.design/"><img src="https://img.shields.io/badge/-Selectra.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/ciftci-recep/"><img src="https://img.shields.io/badge/-Recep Çiftçi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 
