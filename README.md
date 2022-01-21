@@ -4,9 +4,9 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Civil Engineering at Adnan Menderes University.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 ✉️ &nbsp;You can shoot me an email at recepagah12@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://ciftcirecep.pb.design/) for more details about me. I'm open to feedback and suggestions!
+👯 I’m looking to collaborate on Automation, Forecast with Python and TensorFlow or .Net Desktop Projects
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
