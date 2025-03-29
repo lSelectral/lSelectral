@@ -3,7 +3,9 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working as .Net Backend Developer in [TELEPERFORMACE](https://teleperformance.com/en-us/).\
+🎓 &nbsp;I'm currently working as Fullstack Developer at [Fiyuu](https://fiyuu.com.tr/). \
+I'm Cofounder and Fullstack developer at [PREP-TEST](http://prep-test.com/en) \
+I was Fullstack Developer at [TELEPERFORMACE](https://teleperformance.com/en-us/).\
 ✉️ &nbsp;You can shoot me an email at recepagah12@gmail.com! I'll try to respond as soon as I can.\
 👯 I’m looking to collaborate on Fullstack Projects with at least one of this tech stacks (ASP.NET, React.Js, Node.JS, Typescript, Rust)
 
