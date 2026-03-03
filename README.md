@@ -27,7 +27,8 @@ Fullstack Developer • AI Team Lead • SaaS Cofounder
 
 ## 🧠 Current Focus
 
-- AI-driven SaaS architecture  
+- AI-driven SaaS architecture
+- NodeJS, React, NextJS, Typescript, GoLang
 - Scalable microservices (NestJS / .NET)  
 - Event-driven systems (Kafka, RabbitMQ)  
 - Vector databases (Qdrant)  
