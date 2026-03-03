@@ -1,34 +1,149 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Recep -->
+<!-- ===================================================== -->
+<!--                 RECEP CIFTÇI PROFILE                  -->
+<!-- ===================================================== -->
 
-### 👨🏻‍💻 &nbsp;About Me
+<h1 align="center">👋 Hi, I'm Recep Çiftçi</h1>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently working as Fullstack Developer at [Fiyuu](https://fiyuu.com.tr/). \
-I'm Cofounder and Fullstack developer at [PREP-TEST](http://prep-test.com/en) \
-I was Fullstack Developer at [TELEPERFORMACE](https://teleperformance.com/en-us/).\
-✉️ &nbsp;You can shoot me an email at recepagah12@gmail.com! I'll try to respond as soon as I can.\
-👯 I’m looking to collaborate on Fullstack Projects with at least one of this tech stacks (ASP.NET, React.Js, Node.JS, Typescript, Rust)
+<h3 align="center">
+Fullstack Developer • AI Team Lead • SaaS Cofounder
+</h3>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+---
 
-### 🛠 &nbsp;Tech Stack
+## 🚀 About Me
 
-<!--[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)-->
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+💡 I build scalable software systems and AI-powered SaaS platforms.  
+🧠 Currently **Team Lead (AI/ML)** at SiriusAI Tech.  
+🏢 Fullstack Developer at Fiyuu.  
+🚀 Cofounder & Lead Developer of two SaaS platforms:  
 
-### ⚙️ &nbsp;GitHub Analytics
+- 🔵 **[PREPTEST](https://prep-test.com)**  
+- 🟣 **[LANGIUM AI](https://langium.ai)**  
+
+📍 Istanbul, Türkiye  
+📫 recepagah12@gmail.com  
+
+---
+
+## 🧠 Current Focus
+
+- AI-driven SaaS architecture  
+- Scalable microservices (NestJS / .NET)  
+- Event-driven systems (Kafka, RabbitMQ)  
+- Vector databases (Qdrant)  
+- Cloud-native deployments (AWS, Azure)  
+- High-performance API systems  
+
+---
+
+## 🏗 Experience Highlights
+
+### 🟢 Team Lead – SiriusAI Tech (2025–Present)
+- Technical leader of **BossAI Project**
+- AI/ML systems using TypeScript, MSSQL, Qdrant
+- Architecture design and team coordination
+
+### 🔵 Fullstack Developer – Fiyuu (2024–2025)
+- Designed real-time routing & bonus calculation system
+- Built microservice architecture using:
+  - NestJS
+  - Kafka
+  - Redis
+  - DynamoDB
+  - MSSQL
+- Systems serving **hundreds of thousands of users**
+
+### 🔴 Fullstack Developer – Teleperformance (2022–2024)
+- Built enterprise-grade APIs used by **millions globally**
+- Developed salary & bonus payment system
+- Tech stack:
+  - C#
+  - .NET
+  - Azure
+  - RabbitMQ
+  - ElasticSearch
+
+---
+
+## 🚀 SaaS Products I Cofounded
+
+### 🧠 PREPTEST  
+🔗 https://prep-test.com/
+
+AI-powered EdTech platform helping students prepare for international exams.  
+Built with:
+- NextJS
+- React
+- NodeJS
+- TypeScript
+- AWS (ECS, RDS, CDN)
+- Terraform
+
+Features:
+- AI analytics
+- Scalable backend serving web & mobile
+- Adaptive testing systems
+- Real-time dashboards
+
+---
+
+### 🤖 LANGIUM AI  
+🔗 https://langium.ai/
+
+AI-powered language and assessment platform.  
+Focused on:
+- Intelligent exam simulation
+- AI scoring systems
+- Advanced analytics
+- Performance tracking
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- C#
+- .NET
+- Node.js
+- NestJS
+- TypeScript
+- Python
+
+### Frontend
+- React
+- NextJS
+- VueJS
+- Tailwind
+- Shadcn
+- MUI
+
+### Cloud & DevOps
+- AWS (ECS, ECR, RDS, EC2, Lambda)
+- Azure
+- Terraform
+- Docker
+- Microservices Architecture
+- DDD
+
+### Data & Messaging
+- MSSQL
+- DynamoDB
+- Redis
+- Kafka
+- RabbitMQ
+- ElasticSearch
+- Qdrant
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Huawei Developer Competition – Top 4
+- 🚀 Teknofest Edtech Finalist
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/lSelectral">
@@ -37,25 +152,20 @@ I was Fullstack Developer at [TELEPERFORMACE](https://teleperformance.com/en-us/
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-<a href="https://ciftcirecep.pb.design/" target="_blank"><img src="https://img.shields.io/badge/-Selectra.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ciftci-recep/" target="_blank"><img src="https://img.shields.io/badge/-Recep Çiftçi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://prep-test.com/" target="_blank">
+<img src="https://img.shields.io/badge/PREPTEST-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://langium.ai/" target="_blank">
+<img src="https://img.shields.io/badge/LANGIUM_AI-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ciftci-recep/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Recep_Çiftçi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
-
-
-<!--
-**lSelectral/lSelectral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
